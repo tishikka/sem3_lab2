@@ -1,0 +1,12 @@
+D:/programming2/Lab_2/build/CMakeFiles/Lab_2.dir
+D:/programming2/Lab_2/build/CMakeFiles/lib.dir
+D:/programming2/Lab_2/build/CMakeFiles/tests.dir
+D:/programming2/Lab_2/build/CMakeFiles/package.dir
+D:/programming2/Lab_2/build/CMakeFiles/package_source.dir
+D:/programming2/Lab_2/build/CMakeFiles/test.dir
+D:/programming2/Lab_2/build/CMakeFiles/edit_cache.dir
+D:/programming2/Lab_2/build/CMakeFiles/rebuild_cache.dir
+D:/programming2/Lab_2/build/CMakeFiles/list_install_components.dir
+D:/programming2/Lab_2/build/CMakeFiles/install.dir
+D:/programming2/Lab_2/build/CMakeFiles/install/local.dir
+D:/programming2/Lab_2/build/CMakeFiles/install/strip.dir

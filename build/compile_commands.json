@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/programming2/Lab_2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++14 -Wall -Wextra -Werror -o CMakeFiles\\Lab_2.dir\\main.cpp.obj -c D:\\programming2\\Lab_2\\main.cpp",
+  "file": "D:\\programming2\\Lab_2\\main.cpp",
+  "output": "CMakeFiles\\Lab_2.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/programming2/Lab_2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -ID:/programming2/Lab_2/build -g -std=gnu++14 -Wall -Wextra -Werror -o CMakeFiles\\lib.dir\\lib.cpp.obj -c D:\\programming2\\Lab_2\\lib.cpp",
+  "file": "D:\\programming2\\Lab_2\\lib.cpp",
+  "output": "CMakeFiles\\lib.dir\\lib.cpp.obj"
+},
+{
+  "directory": "D:/programming2/Lab_2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DBOOST_TEST_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -g -o CMakeFiles\\tests.dir\\tests.cpp.obj -c D:\\programming2\\Lab_2\\tests.cpp",
+  "file": "D:\\programming2\\Lab_2\\tests.cpp",
+  "output": "CMakeFiles\\tests.dir\\tests.cpp.obj"
+}
+]
