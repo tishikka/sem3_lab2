@@ -21,7 +21,7 @@ int main()
     
     std::vector<std::vector<std::string>> m; 
     std::string line;
-    std::ifstream in("D:\\programming2\\Lab_2\\ip_filter.tsv");
+    std::ifstream in("C:\\proga_sem3\\lab2\\ip_filter.tsv");
     while(std::getline(in,line))
     {
         int start=0;
